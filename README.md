@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Nader Ahmad and I'm a Front-end Developer | UX/UI Designer, from Venezuela.</h2>
+<h2 align="center">Hi 👋! My name is Nader Ahmad and I'm a Front-end Developer | UX/UI Designer</h2>
 
 ###
 
